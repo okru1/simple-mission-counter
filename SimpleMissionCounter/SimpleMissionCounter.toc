@@ -1,0 +1,15 @@
+## Interface: 120100
+## Title: Simple Mission Counter
+## Notes: Contador de misiones completadas: total, zona actual y desglose por expansión y zona.
+## Notes-esES: Contador de misiones completadas: total, zona actual y desglose por expansión y zona.
+## Notes-enUS: Completed quest counter: overall, current zone and a per-expansion / per-zone breakdown.
+## Author: okru1
+## Version: 1.0.0
+## SavedVariables: SimpleMissionCounterDB
+## IconTexture: Interface\Icons\inv_misc_book_09
+## AddonCompartmentFunc: SimpleMissionCounter_OnAddonCompartmentClick
+
+Locales.lua
+Data\QuestDB.lua
+Core.lua
+UI.lua
